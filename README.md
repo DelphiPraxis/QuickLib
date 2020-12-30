@@ -3,6 +3,7 @@
 
 **QuickLib**
 --------
+This is a repository with fixes/extensions from the members of the DelphiPraxis-Forum www.delphipraxis.net / en.delphipraxis.net
 
 Small delphi/Firemonkey(Windows, Linux, Android, OSX & IOS) and fpc(Windows & Linux) library containing interesting and quick to implement functions, created to simplify application development and crossplatform support and improve productivity. Delphi XE8 - Delphi 10.4 Sydney supported.
 
